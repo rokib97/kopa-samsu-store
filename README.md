@@ -1,6 +1,6 @@
 # To Run Project
 
-clone the Projcet
+clone the Project
 
 <!-- run command -->
 

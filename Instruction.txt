@@ -51,11 +51,13 @@ ii) Fetching Data from API.
 
 # Project 
 
+
 1.ES7+ React/Redux/React-Native snippets
 2.Path Autocomplete
 3.Path Intellisense
 4.React Extension Pack
 5.Reactjs code snippets
-Reactjs code snippets
+6.Reactjs code snippets
+7.Tailwind CSS IntelliSense
 
 # Extra Resourses

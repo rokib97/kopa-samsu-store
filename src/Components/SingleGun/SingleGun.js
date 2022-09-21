@@ -25,7 +25,7 @@ const SingleGun = (props) => {
             <div className="badge badge-outline">{bullet}</div>
             <div className="mt-4">
               <button
-                onClick={() => countIncrease()}
+                onClick={countIncrease}
                 className="btn btn-sm btn-danger mr-2"
               >
                 Add To Cart
